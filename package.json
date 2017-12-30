@@ -1,0 +1,17 @@
+{
+  "name": "contributors-code",
+  "version": "1.0.0",
+  "description": "Life as an open source contributor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://IjzerenHein@github.com/IjzerenHein/contributors-code.git"
+  },
+  "author": "IjzerenHein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IjzerenHein/contributors-code/issues"
+  },
+  "homepage": "https://github.com/IjzerenHein/contributors-code#readme"
+}
